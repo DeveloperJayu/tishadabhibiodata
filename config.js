@@ -54,17 +54,6 @@ const CONFIG = {
    */
   siblings: [
     {
-      type: "brother",
-      name: "Ashish Parmar",
-      maritalStatus: "Married",
-      job: "Clerk (Contractual)",
-      company: "Kotak Mahindra Bank, Ahmedabad",
-      employmentType: "Contractual",
-      spouseName: "Falguni Ashish Parmar",
-      spouseJob: "Nurse",
-      spouseCompany: "LG Hospital, Maninagar, Ahmedabad",
-    },
-    {
       type: "sister",
       name: "Dharvi Revar",
       maritalStatus: "Married",
@@ -81,8 +70,8 @@ const CONFIG = {
       spouseJob: "",
       spouseCompany: "",
       job: "Unemployed",
-    },{
-      type: "Brother",
+    }, {
+      type: "brother",
       name: "Parth Dabhi",
       maritalStatus: "Unmarried",
       job: "Unemployed",
