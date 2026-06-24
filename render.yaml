@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: marriage-biodata
+    runtime: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=3600
+      - path: /profile.png
+        name: Cache-Control
+        value: public, max-age=604800
