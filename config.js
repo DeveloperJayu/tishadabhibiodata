@@ -68,18 +68,18 @@ const CONFIG = {
       type: "sister",
       name: "Dharvi Revar",
       maritalStatus: "Married",
-	  spouseName:"Niraj Revar"
-	  spouseJob:""
-	  spouseCompany:""
+      spouseName: "Niraj Revar",
+      spouseJob: "",
+      spouseCompany: "",
       job: "Unemployed",
     },
-	{
+    {
       type: "sister",
       name: "Divya Singhal",
       maritalStatus: "Married",
-	  spouseName:"Niral Singhal"
-	  spouseJob:""
-	  spouseCompany:""
+      spouseName: "Niral Singhal",
+      spouseJob: "",
+      spouseCompany: "",
       job: "Unemployed",
     },{
       type: "Brother",
